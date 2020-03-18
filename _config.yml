@@ -14,7 +14,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Myname Mysurname"
+resume_name:                    "Name Surname"
 resume_title:                   "Your new amazing hire"
 
 # used for the contact button in _layouts/resume.html
