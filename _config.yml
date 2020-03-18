@@ -1,0 +1,73 @@
+# Site settings
+title: "My Resume"
+description: "Resume using Jekyll and GitHub Pages sites."
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-analytics
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Myname Mysurname"
+resume_title:                   "Your new amazing hire"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "<email>"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "<Phone>"
+resume_contact_address:         "<Address>"
+
+resume_header_contact_info:     "<Address> • <Phone> • <email>"
+display_header_contact_info:    "false"
+
+resume_header_intro: >
+  <p>I am XYZ and I want to do awesome things.
+  </p>
+
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_recognition:     true
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_interests:       true
+resume_section_projects:        true
+
+resume_section_skills:          false
+resume_section_associations:    false
+resume_section_links:           false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            ""
+  resume_twitter_url:           ""
+  resume_linkedin_url:          ""
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Configure Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id:                     # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

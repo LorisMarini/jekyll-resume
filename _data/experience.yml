@@ -1,0 +1,41 @@
+# Jobs
+- company: <a href="https://www.google.com/" target="_blank">Google</a>
+  position: Role
+  duration: YYYZ - YYYW
+  environment: >
+    <h4>ENVIRONMENT</h4>
+    <ul class="resume-item-list">
+      <li>Tech company - Large</li>
+      <li>Reporting to:</li>
+      <li>Role: one liner</li>
+    </ul>
+  responsibilities: >
+    <h4>KEY RESPONSIBILITIES</h4>
+    Background. Problem. Solutions.
+
+  achievements: >
+    <h4>KEY ACHIEVEMENTS</h4>
+    <ul class="resume-item-list">
+      <li>Achievement 1, highlights:
+          <ul class="resume-item-list">
+            <li>
+            Highlight 1
+            </li>
+            <li>
+            Highlight 2
+            </li>
+            <li>
+            Highlight 3
+            </li>
+          </ul>
+      </li>
+      <li>
+      Achievement 2
+      </li>
+      <li>
+      Achievement 3
+      </li>
+      <li>
+      Achievement 4
+      </li>
+    </ul>

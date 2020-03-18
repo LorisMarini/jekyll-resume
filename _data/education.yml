@@ -1,0 +1,25 @@
+# Degree
+- degree: Degree 1
+  uni: <a href="https://www.sydney.edu.au/science/schools/school-of-physics.html" target="_blank">University 1</a>
+  year: YYYY - YYYY
+  responsibilities: >
+    <h4>KEY RESPONSIBILITIES</h4>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  achievements: >
+    <h4>KEY ACHIEVEMENTS</h4>
+    <ul class="resume-item-list">
+      <li>
+      Achievement 1: Context
+      </li>
+      <li>
+      Achievement 2: Context
+      </li>
+      <li>
+      Achievement 3: Context
+      </li>
+      <li>
+      Achievement 4: Context
+      </li>
+      <li>
+    </ul>
